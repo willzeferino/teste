@@ -1,0 +1,45 @@
+
+p {
+  float: left;
+  color: black;
+}
+/**/
+#comeco{
+background: #b3b3b3;
+width: auto;
+height: 50px;
+margin: 5px auto;
+
+}
+#menu{
+  width: 720px;
+  margin: auto 200px;
+
+}
+
+#inicial {
+  background-color: #b3b3b3;
+  padding: 10px;  /* aumenta espaço da esquerda, direita, cima e baixo*/
+margin:20px auto; /*borda dos canto, esquerdo e cima, quanto fica longe*/
+width: 1000px;
+height: 1000px;
+}
+#foto {
+background: #505050;
+width: 200px;
+padding: 10px;
+float: left;
+margin: 10px;
+}
+
+.verde {
+color:green;
+}
+
+.img1{
+  float: right;
+  background: #505050;
+  width: 200px;
+  padding: 10px;
+  margin: 10px;
+}

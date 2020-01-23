@@ -1,0 +1,22 @@
+span e div 
+
+div - divisao, estrutura.
+em bloco
+
+#menu{
+backgroud-color: white
+border: 1px solid gray; --> fundo fica branco de cria uma borda cinza 
+}
+
+// elecria um bloco de fora a fora branco e "teste" dentro//
+<div id="menu"> teste </div>
+
+
+
+.verde{
+color:green;
+}
+
+<span class ="verde"> teste </span>
+
+<div id="menu"> teste <span class ="verde"> eu </span> teste </div> --> apenas o "eu" vai ficar vende.
